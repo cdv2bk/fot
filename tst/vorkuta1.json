@@ -5,6 +5,12 @@
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
+  "files1" : [
+    "f01",
+    "f02",
+    "f03"
+    
+  ],
   "members" : [
     {
       "name" : "Molecule Man",
