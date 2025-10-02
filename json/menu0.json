@@ -1,0 +1,11 @@
+{
+  "path" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/vorkuta/",
+  "menu" : [
+    "Меню номер 00" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/menu0.json",
+    "Меню номер 01" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/vorkuta/воркута автобус 001.jpg",
+    "Меню номер 02" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/vorkuta/воркута аллея пионеров 001.jpg",
+    "Меню номер 03" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/vorkuta/воркута аэропорт 001.jpg",
+    "Воркута_json" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta.json",
+    "Воркута_ретро" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta_retro.json"
+  ]
+}
