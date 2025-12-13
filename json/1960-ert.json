@@ -1,9 +1,9 @@
 ﻿{
-  "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/vorkuta/",
+  "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/1960-ert/",
   "files1" : [
-    "воркута 67 001.jpg" , "67 001",
-    "воркута автобус 001.jpg" , "автобус 001",
-    "воркута аллея пионеров 001.jpg" , "аллея пионеров 001",
+    "1939-ZinaSerrt.jpg" , "1939-ZinaSerrt",
+    "1947-05-15rt.jpg" , "1947-05-15rt",
+    "1950e-Katrt.jpg" , "1950e-Katrt",
     "воркута аэропорт 001.jpg" , "аэропорт 001",
     "воркута аэропорт 002.jpg" , "аэропорт 002",
     "воркута аэропорт 003.jpg" , "аэропорт 003",
@@ -581,4 +581,5 @@
     "воркута э 010.jpg" , "э 010",
     "воркута э 011.jpg" , "э 011"
   ]
+
 }
