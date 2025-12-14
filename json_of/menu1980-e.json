@@ -2,8 +2,8 @@
   "path" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/menu1980-e.json",
   "menu" : [
     "198X"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/198Xrt.json",
-    "1980_Тула_Свердлова" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw01.json",
-    "1980_Новый_год_у_Путиных", "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw2.json",
+    "1980_Тула_Свердлова" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw01-tula.json",
+    "1980_Новый_год_у_Путиных", "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw02-putina.json",
     "ВГФЭ_(мин)"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vgfet.json",
     "Щекино_(мин)"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/shchekinot.json",
     "Школьная1t"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/shkolnaja1t.json",
