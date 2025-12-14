@@ -2,6 +2,8 @@
   "path" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/menu1.json",
   "menu" : [
     "198X"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/198X-c.json",
+    "1980 Тула cw01" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1980-cw01-krt.json",
+    "1980 Путина cw02", "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/198X-c.json",
     "ВГФЭ_(мин)"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vgfet.json",
     "Щекино_(мин)"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/shchekinot.json",
     "Школьная1t"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/shkolnaja1t.json",
