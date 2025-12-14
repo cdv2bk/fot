@@ -1,5 +1,5 @@
 {
-  "path" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/menu1980-e.json",
+  "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/menu1980-e.json",
   "menu" : [
     "198X"                    , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/198Xrt.json",
     "1980_Тула_Свердлова"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw01-tula.json",
