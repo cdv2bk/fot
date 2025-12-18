@@ -1,11 +1,11 @@
 {
   "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/menu1980-e.json",
   "menu" : [
-    " . . . . 198X"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/198Xrt.json",
-    "1980_Тула_Свердлова"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw01-tula.json",
-    "1980_НГ_у_Путиных"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw02-putina.json",
-    "1981_Селиваново_1"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1981-bw03-selivanovo.json",
-    "1981_Селиваново_2"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1981-bw04-selivanovo.json",
+    " . . . . . 198X"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/198Xrt.json",
+    " 1980_Тула_Свердлова"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw01-tula.json",
+    " 1980_НГ_у_Путиных"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1980-bw02-putina.json",
+    " 1981_Селиваново_1"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1981-bw03-selivanovo.json",
+    " 1981_Селиваново_2"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1981-bw04-selivanovo.json",
     "1981_Воронка"            , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1981-bw05-voronka.json",
     "1981_Колхоз_1"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1981-bw06-kolhoz.json",
     "1981_Колхоз_2"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1981-bw07-kolhoz.json",
