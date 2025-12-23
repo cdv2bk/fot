@@ -1,17 +1,10 @@
 {
   "path" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/menu1980.json",
   "menu" : [
-    "198X"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/198X-c.json",
-    "1980_Тула_cw01" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1980-cw01-krt.json",
-    "1980_Путина_cw02", "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1980-cw02-kwrt.json",
-    "1981_Селиваново_1", "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw03-selivanovo.json",
-    "Щекино_(мин)"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/shchekinot.json",
-    "Школьная1t"     , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/shkolnaja1t.json",
-    "Воркута"        , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta.json",
-    "Воркута_2021"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta_2021.json",
-    "Воркута_2023"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta_2023.json",
-    "Воркута_2024"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta_2024.json",
-    "Воркута_ретро1" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta_retro1.json",
-    "Воркута_ретро2" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/vorkuta_retro2.json"
+    "198X__( разное )"    , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/198X-c.json",
+    "1980_Тула_Свердлова" , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1980-cw01-krt.json",
+    "1980_НГ_у_Путиных"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1980-cw02-kwrt.json",
+    "1981_Селиваново_1"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw03-selivanovo.json",
+    "1981_Селиваново_2"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw04-selivanovo.json"
   ]
 }
