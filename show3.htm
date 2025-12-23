@@ -2,7 +2,7 @@
 <html lang=ru>
  <head>
  <meta charset=utf-8>
- <title>Слайдшоу 2025-12-18</title>
+ <title>Слайдшоу 2025-12-19</title>
  <style>
   body {
     margin: 0;
@@ -33,7 +33,11 @@
      left: 22%;
      top: 22%;
  }
-
+ .tumba {
+ 	background-image: url(img/tumba30.jpg);
+ 	background-size: 100; auto;
+ 	background-position: 50% 0px;
+ }
   .sp3 { height: 9px; }
   #lf > img {
     width: 200px;
@@ -163,7 +167,8 @@
    var np1 = 0;
    var nhm = 50;   // высота пункта в меню
    var nwm = 470;  // ширина пункта в меню
-   
+   var nt = 0;
+   var sm = "";    // добавить пробелы если имя альбома меньше 21 символа
    sTmp1 = sTmp1.substring(sTmp1.lastIndexOf("/") + 1, sTmp1.lastIndexOf("/") + 5);
    //alert("sTmp1 : " + sTmp1);
    if( sTmp1 == "menu") {
@@ -174,18 +179,35 @@
      nh = (wh/2)-(nhm/2)*oMenu.length/2;
      if(nh<0) {nh = 20;}
      if(nhm*oMenu.length/2+20>wh) {nh=20;}
-     //nhm = 200;
    	 //alert("nw nh formula = " + nw + " " + nh + " " + np);
-   	 sTmp1 = `</div><div style="position:absolute; top:`+(nh+np*nhm-100)+`px; background-color: #ffffff;  width:100%; height:250px;"> 123 </div>`;
-   	 sTmp1 = "";
+   	 // 
+   	 if(oMenu.length/2 >= np) {
+   	 	nt = nh+np*nhm-55;
+   	 } else {
+   	 	nt = nh+nhm*oMenu.length/2 -55;
+   	 }
+   	 sTmp1 = `</div><div class=tumba style="position:absolute; top:`+nt+`px; background-color: #ffffff;  width:100%; height:`+(wh-nt)+`px;"> </div>`;
+   	 //sTmp1 = "";   (nh+nhm*oMenu.length/2 -35)
    	 sTmp1 += `<div style=" position:absolute; left:` + nw + `px; top:` + nh + `px;  white-space: nowrap; ">`;
    	 for(var ii=0; ii<oMenu.length; ii+=2) {
-   	   
-   	   if(np1>=np) {np1=0; nw += nwm; sTmp1 += `</div><div style=" position:absolute; left:` + nw + `px; top:` + nh + `px;  white-space: nowrap; ">`; }
+   	   if(np1>=np) {
+   	     if((oMenu.length-ii)/2 <= np) {
+   	       nh += nhm*(np-(oMenu.length/2-ii/2));       // добавить пустые места, что бы последняя стопка альбомов лежала внизу
+   	       //alert("(np-(oMenu.length/2-ii/2)) = "+(np-(oMenu.length/2-ii/2)));
+   	       }
+   	     nw += nwm;
+   	     sTmp1 += `</div><div style=" position:absolute; left:` + nw + `px; top:` + nh + `px;  white-space: nowrap; ">`;
+   	     np1=0;
+   	   }
    	   sTmp1 += `<a href=show3.htm?__` + oMenu[ii] + `__#__` + oMenu[ii+1] + ` target=_blank>`;
    	   //sTmp1 += `<div class="im" style="hight:`+nhm+`px;"><b class="lb">&nbsp;` + oMenu[ii] + `</b></div></a>`;
    	   //sTmp1 += `<div class="im"  style="height:70px; width:380px; background-color: #ffffff;"><b class="lb">&nbsp;` + oMenu[ii] + `</b></div></a>`;
-   	   sTmp1 += `<div class="im"  style="height:`+nhm+`px; width:`+nwm+`px; background-color: #ffffff;"><b class="lb">&nbsp;` + oMenu[ii] + `</b></div></a>`;
+   	   sm = "";
+   	   if(oMenu[ii].length < 21) {
+   	   	 for(var iii=0; iii <= 1.5*(21-oMenu[ii].length)/2; iii++) { sm += "&nbsp"; }
+   	   }
+   	   sm += oMenu[ii];
+   	   sTmp1 += `<div class="im"  style="height:`+nhm+`px; width:`+nwm+`px; background-color: #ffffff;"><b class="lb">&nbsp;` + sm + `</b></div></a>`;
    	   np1 += 1;
    	   //alert("sTmp1 : " + sTmp1);
    	 }
