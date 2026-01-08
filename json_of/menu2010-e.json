@@ -1,0 +1,7 @@
+{
+  "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/menu2010-e.json",
+  "menu" : [
+    "200X_[_разное_]"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/2010rt.json",
+    "2000_Воркута"          , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/2011rt.json"
+  ]
+}
