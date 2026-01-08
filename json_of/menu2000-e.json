@@ -1,7 +1,7 @@
 {
   "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/menu2000-e.json",
   "menu" : [
-    "199X_[_разное_]"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/200Xt.json",
-    "1992_июль_Тамань"      , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/2000-CN17t-4957-VORKUTA.json"
+    "200X_[_разное_]"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/200Xt.json",
+    "2000_Воркута"          , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/2000-CN17t-4957-VORKUTA.json"
   ]
 }
