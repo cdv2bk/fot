@@ -1,8 +1,7 @@
 {
   "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/menu1980-e.json",
   "menu" : [
-    "1992_июль_Тамань"        , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1992-BW27rt-JULI-TAMAN.json",
-    "1992_июль_Тамань"        , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1992-BW27rt-JULI-TAMAN.json",
-    "198X"           , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/198Xrt.json"
+    "199X_[_разное_]"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/199Xt.json",
+    "1992_июль_Тамань"      , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/1992-BW27rt-JULI-TAMAN.json"
   ]
 }
