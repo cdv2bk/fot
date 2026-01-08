@@ -1,0 +1,7 @@
+{
+  "path1" : "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/menu2020-e.json",
+  "menu" : [
+    "2020_избранное"        , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/2020rt.json",
+    "2021_избранное"        , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json_of/2021rt.json"
+  ]
+}
