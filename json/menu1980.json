@@ -6,6 +6,8 @@
     "1980_НГ_у_Путиных"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1980-cw02-kwrt.json",
     "1981_Селиваново_1"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw03-selivanovo.json",
     "1981_Селиваново_2"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw04-selivanovo.json",
-    "1981_Воронка_26_июня", "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw05-voronka.json"
+    "1981_Воронка_26_июня", "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw05-voronka.json",
+    "1981_Колхоз_1"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw06-kolhoz.json",
+    "1981_Колхоз_2"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw07-kolhoz.json"
   ]
 }
