@@ -11,6 +11,10 @@
     "1981_Колхоз_2"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw07-kolhoz.json",
     "1981_Колхоз_3"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1981-cw08-kolhoz.json",
     "1982_Февраль_Тула"   , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1982-cw09-february.json",
-    "1982_Март_Тула"      , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1982-cw10-mart.json"
+    "1982_Март_Тула"      , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1982-cw10-mart.json",
+    "1982_Сентябрь_Тула"  , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1982-cw11-september.json",
+    "1982_Ноябрь_Тула"    , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1982-cw12-november.json",
+    "1983_Март_Тула"      , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1983-cw13-mart.json",
+    "1983_Май_Тула"       , "https://raw.githubusercontent.com/cdv2bk/fot/refs/heads/main/json/1983-cw14-maj.json"
   ]
 }
